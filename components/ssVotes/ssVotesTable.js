@@ -302,7 +302,7 @@ const useStyles = makeStyles((theme) => ({
     marginRight: '12px'
   },
   tableContainer: {
-    overflowX: 'hidden'
+    overflowX: 'scroll'
   },
   overrideTableHead: {
     borderBottom: '1px solid rgba(104,108,122,0.2) !important',
